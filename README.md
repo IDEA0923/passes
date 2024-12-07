@@ -4,6 +4,7 @@ thir is not finally version , I will end this programm
 
 --------------------------------------------
 to use this script as a command you need :
+<br>
 1.open "main.cpp" and "passes" in one directory(folder)
 2.open that directory in terminal and run that command:
   mkdir ~/.passes
