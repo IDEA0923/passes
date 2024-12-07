@@ -20,4 +20,4 @@ to use this script as a command you need :
   sudo cp passes /usr/bin/
   <br>
 
-affter that move yo can use script , inputting in terminal : pusses
+affter that move yo can use script , inputting in terminal : passes
